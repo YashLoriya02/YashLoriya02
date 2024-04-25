@@ -1,7 +1,9 @@
-# About me
+# 😄 About me
 ### I'm Yash Loriya, a proficient Full Stack Web Developer specializing in the MERN Stack. Currently, I'm expanding my skill set to include Artificial Intelligence and Machine Learning (AIML) alongside Data Science, enriching my expertise to create innovative solutions.
 
-# Skills 
+______________________________________________________________________________________
+
+# 💻 Skills
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/2190be2d-18d6-49f7-95e1-adb80ec363ca) 
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/01572bb3-2b59-49c6-a2e5-e5ed02b452fd)
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e1c178fa-524c-4cb5-a858-6a7700013924)
