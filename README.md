@@ -4,7 +4,7 @@
 # Skills 
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/2190be2d-18d6-49f7-95e1-adb80ec363ca) 
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/01572bb3-2b59-49c6-a2e5-e5ed02b452fd)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/60f54f72-cda7-4331-ba17-6254324d87d7)
+  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e1c178fa-524c-4cb5-a858-6a7700013924)
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/865139ef-0e15-4a63-834f-156c2fbfe4ac)
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e8a48dc8-350d-4dc2-93ee-5ff49b4991ad)
   ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/7105e7e0-626f-4551-9387-703bc61f5659)
