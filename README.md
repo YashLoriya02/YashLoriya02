@@ -1,5 +1,5 @@
 # 😄 About me
-### I'm Yash Loriya, a proficient Full Stack Web Developer specializing in the MERN Stack. Currently, I'm expanding my skill set to include Artificial Intelligence and Machine Learning (AIML) alongside Data Science, enriching my expertise to create innovative solutions.
+### I'm Yash Loriya, a proficient Full Stack Web Developer specializing in the MERN Stack, NextJS, and Flutter. Currently, I'm expanding my skill set to include DevOps, Cloud Services, and MLOps to enhance my capability to deliver innovative and comprehensive solutions.
 
 ______________________________________________________________________________________
 
