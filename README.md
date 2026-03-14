@@ -1,38 +1,130 @@
-# 😄 About me
-###  Hi, I'm Mumbai based Software Developer, I have 2 years of experience building software and web applications. My expertise spans in Full Stack Development using modern technologies like MERN Stack, Next.js, Python, FastAPI, Flutter, Java, etc. Additionally I have good exposure to DevOps, with hands on experience in Docker, Terraform and AWS. I do side projects for fun (can check them out here) and I love debugging even at 2 AM. 
+<h1 align="center">Hi, I'm Yash Loriya</h1>
+<h3 align="center">Software Developer from Mumbai, India</h3>
 
-______________________________________________________________________________________
+<p align="center">
+  I build scalable full-stack applications, cloud-native systems, and developer-focused products.
+</p>
 
-# 💻 Skills
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/2190be2d-18d6-49f7-95e1-adb80ec363ca) 
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/01572bb3-2b59-49c6-a2e5-e5ed02b452fd)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e1c178fa-524c-4cb5-a858-6a7700013924)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/865139ef-0e15-4a63-834f-156c2fbfe4ac)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e8a48dc8-350d-4dc2-93ee-5ff49b4991ad)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/7105e7e0-626f-4551-9387-703bc61f5659)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/cae5c369-85e0-4416-932b-2abf73e98f8c)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/5f576d2a-3d19-45d1-84e6-a954988cfa65)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/0baed8d1-2516-4033-9b94-78df08fe096d)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e2643438-3934-449f-8519-342291670501)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/4e8c9b99-842c-4b9f-a69b-1f6aa1c2fceb)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/6c796ffb-90ac-405d-8164-75ad78905e28)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/2461585e-3a1a-4e20-9f81-7c57bdde748d)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/0c85d0cd-869f-459e-afc5-2ded579c4653)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/8522df02-de63-4fec-9121-24e74582438b)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/445b10f9-36d2-402a-98b4-0a66e3402382)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/58619d62-5b0d-4fe6-9067-ae0c1d0fdb2b)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/63eb6f95-63d6-4356-95d0-1d93ad0ae461)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/9083b747-1f24-4ee7-babe-e3cf3878c87f)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/70ac0969-9148-4d13-b61e-fe417a1d8ff9)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/12d48388-552d-4dba-85ee-857dc6027ff8)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/71bf416e-8c75-40bc-8711-ff831dbee14b)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/4d655d06-d797-48da-aca8-619a1a1fef6b)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/b6951d60-2e9b-47c3-91ec-5ef6eef0e388)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/ef93cbae-01e7-454b-bbdf-f28d7221a340)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/a2bea5fb-5599-4046-ba8d-d0fbf99df6e1)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/5fc90426-1594-4b92-ac6c-32e43cc866ec)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/ec3256ee-cf86-49e6-9525-290687ac7ed4)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/e09cc86d-bbd3-4ecc-8c01-bf6282ef07ea)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/7b280582-19d2-4576-89a4-a5d865e227c7)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/208b08e7-07e9-4b98-af04-10ffe4f20048)
-  ![image](https://github.com/YashLoriya02/YashLoriya02/assets/143203752/be16c5a1-79dc-461e-8200-c695f8e380ef)
+---
+
+## About Me
+
+I'm a Mumbai-based Software Developer with 2 years of experience building software and web applications. I work across the stack using technologies like MERN, Next.js, Python, FastAPI, Flutter, and Java. I also have hands-on experience with DevOps and cloud infrastructure using Docker, Terraform, AWS, and CI/CD workflows.  
+
+I enjoy building side projects, exploring new ideas, and solving tricky bugs — yes, even at 2 AM :)
+
+- Currently working as **SDE-1**
+- Focused on **Full Stack Development, Microservices, DevOps, and Cloud**
+- Interested in building **scalable products** and **great developer experiences**
+---
+
+## Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-000?style=for-the-badge)
+![ShadCN](https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-000?style=for-the-badge&logo=jenkins)
+
+### Tools & Concepts
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+`Microservices` `CI/CD` `WebSockets` `SSE` `Pub/Sub` `RTC` `Cloud-native apps`
+
+---
+
+## Featured Projects
+
+### 1. Portfolio Builder
+🔗 [Live Demo](https://portfolio-builder-jet.vercel.app)
+
+A web app built with **Next.js, TypeScript, Gemini, and Tailwind CSS** that generates portfolio websites directly from resumes.
+
+- AI-powered resume parsing for faster onboarding
+- Auto-populates portfolio content with minimal setup
+- Ready-made templates with one-click publishing
+
+---
+
+### 2. Injectable SupportAI Widget
+🔗 [GitHub Repository](https://github.com/YashLoriya02/injectable-support-ai)
+
+An embeddable AI support widget built with **Next.js, TypeScript, Node.js, SSE, and Gemini API**.
+
+- Plug-and-play SDK widget for external platforms
+- Domain-restricted integration for secure deployment
+- Real-time chat with moderation and contextual AI responses
+- Admin dashboard for branding, setup, analytics, and behavior control
+
+---
+
+### 3. Skribble – Realtime Multiplayer Drawing & Guessing Game
+🔗 [Live Demo](https://skribble-web.vercel.app/)
+
+A multiplayer drawing and guessing game inspired by skribbl.io.
+
+- Live canvas and chat-based gameplay
+- Real-time communication using **WebSockets**
+- Turn-based gameplay, synchronized drawing, and live scoring
+
+## What I Bring
+
+- Strong foundation in **full-stack development**
+- Experience building **scalable and optimized applications**
+- Practical knowledge of **Docker, AWS, Terraform, and CI/CD**
+- Ability to work across **web, mobile, backend, and infrastructure**
+- Product mindset with a focus on **performance, reliability, and developer experience**
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YashLoriya02" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/in/yash-loriya" target="_blank">LinkedIn</a> •
+  <a href="https://yashloriya-portfolio.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="mailto:yashloriya0206@gmail.com">Email</a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashLoriya02&show_icons=true&theme=tokyonight" alt="Yash's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashLoriya02&theme=tokyonight" alt="Yash's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashLoriya02&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
