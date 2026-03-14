@@ -1,5 +1,5 @@
 # 😄 About me
-### I'm Yash Loriya, a proficient Full Stack Web Developer specializing in the MERN Stack, NextJS, and Flutter. Currently, I'm expanding my skill set to include DevOps, Cloud Services, and MLOps to enhance my capability to deliver innovative and comprehensive solutions.
+###  Hi, I'm Mumbai based Software Developer, I have 2 years of experience building software and web applications. My expertise spans in Full Stack Development using modern technologies like MERN Stack, Next.js, Python, FastAPI, Flutter, Java, etc. Additionally I have good exposure to DevOps, with hands on experience in Docker, Terraform and AWS. I do side projects for fun (can check them out here) and I love debugging even at 2 AM. 
 
 ______________________________________________________________________________________
 
